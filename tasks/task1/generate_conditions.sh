@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Insert you task generation below
-echo "" > /home/box/condition
-echo "42" > /home/box/correct_answer
+echo "To be or not to be in case of $RANDOM" > /home/box/condition
+echo "$RANDOM" > /home/box/correct_answer
 # /Insert you task generation below
 
 # Do not edit!
